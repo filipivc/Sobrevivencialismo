@@ -1,10 +1,9 @@
-<div>
 # Sobrevivencialismo
 
-<p>Material com dicas de sobrevivencialismo.</p>
+Material com dicas de sobrevivencialismo.
 
 
-<p>Aceito sugestões de melhoria e dicas de como melhorar esse guia<p>
+Aceito sugestões de melhoria e dicas de como melhorar esse guia
 
 
 ## Index
@@ -19,4 +18,3 @@
 04. Água
 
 99. Contribua
-</div>
