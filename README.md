@@ -9,12 +9,8 @@ Aceito sugestões de melhoria e dicas de como melhorar esse guia
 ## Index
 
 
-01. Armazenamento de alimentos
-
-02. Defesa
-
-03. Equipamentos para o carro
-
-04. Água
-
-99. Contribua
+01. Armazenamento<br/>
+02. Defesa<br/>
+03. Equipamentos para o carro<br/>
+04. Água<br/>
+99. Contribua<br/>
